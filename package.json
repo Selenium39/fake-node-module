@@ -19,6 +19,7 @@
   "dependencies": {
     "array-flatten": "^3.0.0",
     "co": "^4.6.0",
+    "ee-first": "^1.1.1",
     "is-generator-function": "^1.0.10",
     "merge-descriptors": "^1.0.1"
   }
