@@ -21,6 +21,7 @@
     "co": "^4.6.0",
     "ee-first": "^1.1.1",
     "is-generator-function": "^1.0.10",
+    "koa-compose": "^4.1.0",
     "merge-descriptors": "^1.0.1"
   }
 }
